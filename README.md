@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 
+### I'm Abhay Shandilya
 
-<!--
-**cornyabhay/cornyabhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me  
+- 🎓 **B.Tech 1st Year Student**
+- 📊 **Mathematics Enthusiast** passionate about solving real-world problems.  
+- 🌱 Currently exploring **STEM**, **DSA (Data Structures & Algorithms)**, and much more!  
+- 🚀 Aspiring to become a skilled problem-solver and tech innovator.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Interests
+- 📐 **Mathematics**: Always diving deep into concepts and challenges.
+- 💻 **Programming**: Exploring problem-solving with DSA and coding.
+- 🔬 **STEM Fields**: Connecting theoretical knowledge to practical applications.  
+- 🌟 **Curiosity-Driven Learning**: From science to technology and beyond!  
+
+---
+
+## 📈 GitHub Stats
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-shandilya&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+💡 "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."  
+Keep solving, keep building, and keep growing! 🚀
